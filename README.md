@@ -1,5 +1,6 @@
 # Challenge-Telecom-X
 Autor: Eduardo Albizo 
+
 💡 Descripción del Proyecto
 
 Este proyecto analiza los factores que provocan la evasión de clientes en Telecom X. Se trabajó con un dataset de más de 7,000 registros aplicando un completo proceso de ETL (Extracción, Transformación y Limpieza) y un Análisis Exploratorio de Datos (EDA) para descubrir patrones de abandono y generar recomendaciones estratégicas que ayuden a mejorar la retención de clientes.
